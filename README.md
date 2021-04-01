@@ -5,11 +5,8 @@ Bienvenido al repositorio para las tareas de la sección 2 del curso PUC IIC2513
 ## Tabla de contenidos
  * [Equipo](#equipo)
      * [Profesor](#profesor)
+     * [Coordinador](#coordinador)
      * [Ayudantes](#ayudantes)
- * [Evaluaciones](#evaluaciones)
-     * [Tareas](#profesor)
-     * [Evaluación de Pares](#evpares)
-     * [Calificación](#calificación)
  * [Dudas](#dudas)
      * [Etiquetas](#etiquetas)
      * [Procedimiento](#procedimiento)
